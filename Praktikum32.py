@@ -18,7 +18,8 @@ class PersegiPanjang:
 
     def hitung_luas(self):
         return self.panjang * self.lebar
-
+        
+print("Hasanul Bashori 064002300041 Teknik informatika")
 print("---program menghitung luas persegi panjang---")
 
 panjang_persegi_panjang = float(input("Masukkan panjang persegi panjang: "))
